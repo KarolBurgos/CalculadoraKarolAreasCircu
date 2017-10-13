@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculatorKarol</string>
+    <string name="base">Base</string>
+    <string name="altura">Height</string>
+    <string name="radio">Radio</string>
+    <string name="circulo">circle</string>
+    <string name="triangulo">triangle</string>
+    <string name="rectangulo">rectangle</string>
+    <string name="calculadora">calculator</string>
+    <string name="acercade">about</string>
+    <string name="calc">calculate area</string>
+</resources>

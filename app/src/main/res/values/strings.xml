@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraKarol</string>
+    <string name="altura">Altura</string>
+    <string name="base">Base</string>
+    <string name="circulo">Circulo</string>
+    <string name="radio">Radio</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="acercade">Acerca de</string>
+    <string name="calc">Calcular</string>
+    <string name="calculadora">Calculadora</string>
+</resources>
